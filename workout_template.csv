@@ -1,0 +1,10 @@
+workout_name,step_type,duration_type,duration_value,target_type,target_value,intensity,notes
+FTP 4x8,warmup,time,600,hr,120-140,active,Aquecer Z2
+FTP 4x8,interval,time,480,power,95%-105%,active,Bloco 1
+FTP 4x8,recovery,time,180,hr,Z1-Z2,rest,Recup leve
+FTP 4x8,interval,time,480,power,95%-105%,active,Bloco 2
+FTP 4x8,recovery,time,180,hr,Z1-Z2,rest,Recup leve
+FTP 4x8,interval,time,480,power,95%-105%,active,Bloco 3
+FTP 4x8,recovery,time,180,hr,Z1-Z2,rest,Recup leve
+FTP 4x8,interval,time,480,power,95%-105%,active,Bloco 4
+FTP 4x8,cooldown,time,600,hr,100-120,active,Volta à calma
