@@ -1,2 +1,3 @@
-English version = README_EN.md
-Versão em Portugues = README_PT.md
+#English version = README_EN.md
+
+#Versão em Portugues = README_PT.md
